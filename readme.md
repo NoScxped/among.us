@@ -6,7 +6,7 @@
 
 ```js
 
-    const amongus = require('among.us');
+    const amongus = require('susify');
 
 ```
 

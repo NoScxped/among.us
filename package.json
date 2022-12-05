@@ -1,6 +1,6 @@
 {
   "name": "susify",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Sus-ifies your string!",
   "main": "index.js",
   "scripts": {
