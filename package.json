@@ -1,0 +1,23 @@
+{
+  "name": "among.us",
+  "version": "0.0.1",
+  "description": "Sus-ifies your string!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noscxped/among.us.git"
+  },
+  "keywords": [
+    "colors",
+    "console"
+  ],
+  "author": "Apollo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noscxped/among.us/issues"
+  },
+  "homepage": "https://github.com/noscxped/among.us#readme"
+}
