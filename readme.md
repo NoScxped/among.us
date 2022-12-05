@@ -2,6 +2,8 @@
 
 *Sus-ify your strings!*
 
+**REQUIRES NODE.JS v15 OR ABOVE*
+
 ```js
 
     const amongus = require('among.us');
